@@ -12,7 +12,7 @@ This repository contains two small C++ programs focused on string manipulation.
 g++ scrambler.cpp -o scramble
 ./scramble
 ```
-###Ascii Neighbors
+### Ascii Neighbors
 ```bash
 g++ ascii_neighbors.cpp -o neighbors
 ./neighbors
